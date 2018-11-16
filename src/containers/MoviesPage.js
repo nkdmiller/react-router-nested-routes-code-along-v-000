@@ -12,3 +12,4 @@ const MoviesPage = ({ match, movies }) => (
 )
 
 export default MoviesPage
+  
